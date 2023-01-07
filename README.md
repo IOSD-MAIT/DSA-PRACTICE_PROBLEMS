@@ -1,8 +1,6 @@
-## DSA-PRACTICE_PROBLEMS
+## YOU CAN PUSH YOUR DSA PROBLEMS
 
-### You can add your DSA questions 
-
-## FORMAT TO ADD A PROBLEM
+## Format to add your problem
 **1.** file name- question_name.cpp/.java/.py <br/>
 **2.** Question name (in comment)<br/>
 **3.** Question link (in comment)<br/>
