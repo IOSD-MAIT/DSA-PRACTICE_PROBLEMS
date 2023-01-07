@@ -10,7 +10,9 @@
 **5.** Your Code
 <br/>
 <br/>
-<img width="50%" src="https://github.com/KushagraJain58-cmd/DSA-Practice-Problems/blob/main/ss.png"/>
+###For Example
+<br/>
+<img width="70%" src="https://github.com/KushagraJain58-cmd/DSA-Practice-Problems/blob/main/ss.png"/>
 <br/>
 ## HOW TO CONTRIBUTE ? 👷 
 
