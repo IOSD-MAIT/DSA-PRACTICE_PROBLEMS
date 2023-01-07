@@ -9,7 +9,7 @@
 **4.** Problem statement (in comment)<br/>
 **5.** Your Code
 
-<h3>For Example</h3>
+<h3>For Example:</h3>
 <br/>
 <img width="70%" src="https://github.com/KushagraJain58-cmd/DSA-Practice-Problems/blob/main/ss.png"/>
 <br/>
