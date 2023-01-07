@@ -1,5 +1,14 @@
 ### DSA-PRACTICE_PROBLEMS
 
+# You can add your DSA questions 
+
+## FORMAT TO ADD A PROBLEM
+**1.** file name- question_name.cpp/.java/.py
+**2.** Question name (in comment)
+**3.** Question link (in comment)
+**4.** Problem statement (in comment)
+**5.** Your Code
+
 ## HOW TO CONTRIBUTE ? 👷 
 
 **1.** Fork repository.
