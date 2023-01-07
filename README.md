@@ -9,7 +9,9 @@
 **4.** Problem statement (in comment)<br/>
 **5.** Your Code
 <br/>
-<img src="https://github.com/KushagraJain58-cmd/DSA-Practice-Problems/blob/main/ss.png"/>
+<br/>
+<img width="35%" align="left" src="https://github.com/KushagraJain58-cmd/DSA-Practice-Problems/blob/main/ss.png"/>
+<br/>
 ## HOW TO CONTRIBUTE ? 👷 
 
 **1.** Fork repository.
